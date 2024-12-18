@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anubhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZqOHNheWp5Y3k1bjluaGIzY3VpemhwYWZiNjBtMGtrYmY2c3g3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav12302387&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav12302387" /> </p>
 
