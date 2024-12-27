@@ -1,3 +1,9 @@
+ <h3 align="center">A passionate Programmer</h3> <div style="display: flex;
+    justify-content: space-between;">
+  <img alt="coding" height="200" width="300" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+  <img alt="coding" height="200" width="300" src="https://visualstudio.microsoft.com/wp-content/uploads/2023/03/FinalGIF16_9aspectratiofaster.gif">
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on Face_Recognition<br><br>🌱 I’m currently learning MEAN, Flutter, React Native<br><br>👨‍💻 All of my projects are available at https://anubhavxdev.vercel.app/<br><br>💬 Ask me about React, Node Js, Python,<br><br>📫 How to reach me anubhavjaiswal1803@gmail.com<br><br>⚡ Fun fact I am carless person
 
