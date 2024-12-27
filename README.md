@@ -1,4 +1,4 @@
- <h3 align="center">Software Developer</h3> <div style="display: flex;
+ <h3 align="center">Software Developer</h3> <div style="display: center;
     justify-content: space-between;">
   <img alt="coding" height="200" width="300" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
   <img alt="coding" height="200" width="300" src="https://visualstudio.microsoft.com/wp-content/uploads/2023/03/FinalGIF16_9aspectratiofaster.gif">
